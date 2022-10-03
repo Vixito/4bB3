@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SaludAPP</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_label">Forgot your password?</string>
+    <string name="button_login_label">Sign in</string>
+    <string name="login_label_1">I do not have an account</string>
+    <string name="login_signup_label">¡Sign up now!</string>
+    <string name="email_error">Invalid e-mail address</string>
+    <string name="password_error">Invalid password</string>
+    <string name="button_signup_label">Create account</string>
+    <string name="signup_label_1">I have an account</string>
+    <string name="signup_login_label">Sign in</string>
+    <string name="name_hint">Name</string>
+    <string name="male_label">Male</string>
+    <string name="female_label">Female</string>
+    <string name="another_label">Other</string>
+    <string name="button_forgot_label">Change password</string>
+    <string name="home_label">Home</string>
+    <string name="location_label">Location</string>
+    <string name="profile_label">Profile</string>
+    <string name="specialist_label">Specialists</string>
+    <string name="home_fragment_title">Cambia tu vida para mejor</string>
+    <string name="fragment_home_subtitle">Agenda una cita y te ayudaremos con el problema al que te enfrentes</string>
+    <string name="fragment_home_services">Nuestros servicios</string>
+</resources>
